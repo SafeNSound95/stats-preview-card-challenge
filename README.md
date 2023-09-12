@@ -20,12 +20,12 @@ it was fun and VERY challenging especially for resposiveness, I think I did real
 
 ### Screenshot
 
-![](![Screenshot of site](2023-09-12-Frontend-Mentor-Stats-preview-card-component-1.png))
+(![Screenshot of site](2023-09-12-Frontend-Mentor-Stats-preview-card-component-1.png))
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://www.frontendmentor.io/solutions/stats-preview-card-grid-flexbox-gCfF5YsKKb)
+- Live Site URL: (https://stats-preview-card-saif.netlify.app/)
 
 ## My process
 
